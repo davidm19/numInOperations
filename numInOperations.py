@@ -16,4 +16,5 @@ def numInOperations(a, b):
             10: print(str(b) + " raised to the " + str(a) + " power: " + str(pow(b,a)) + "\n")
         }
 
-    return a in [a+b, a-b, b-a, a*b, a/b, b/a, a%b, b%a, pow(a,b), pow(b,a)] or b in [a+b, a-b, b-a, a*b, a/b, b/a, a%b, b%a, pow(a,b), pow(b,a)]
+    if a in [a+b, a-b, b-a, a*b, a/b, b/a, a%b, b%a, pow(a,b), pow(b,a)] or b in [a+b, a-b, b-a, a*b, a/b, b/a, a%b, b%a, pow(a,b), pow(b,a)]:
+        print("In range!")
