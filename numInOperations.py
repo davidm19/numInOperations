@@ -18,3 +18,6 @@ def numInOperations(a, b):
 
     if a in [a+b, a-b, b-a, a*b, a/b, b/a, a%b, b%a, pow(a,b), pow(b,a)] or b in [a+b, a-b, b-a, a*b, a/b, b/a, a%b, b%a, pow(a,b), pow(b,a)]:
         print("In range!")
+        return True
+    else:
+        return False
