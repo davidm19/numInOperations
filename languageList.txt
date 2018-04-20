@@ -1,9 +1,9 @@
 Languages I Have Done:
 - C
+- Java
 - Python
 
 Languages I Plan To Do:
-- Java
 - JavaScript
 - Ruby
 - Swift
