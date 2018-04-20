@@ -1,0 +1,16 @@
+Languages I Have Done:
+- C
+- Python
+
+Languages I Plan To Do:
+- Java
+- JavaScript
+- Ruby
+
+Languages for the Future:
+- C++
+- C#
+- Haskell
+- HTML-CSS-JScript site
+- PHP
+- Shell Script
