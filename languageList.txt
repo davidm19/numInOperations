@@ -6,6 +6,7 @@ Languages I Plan To Do:
 - Java
 - JavaScript
 - Ruby
+- Swift
 
 Languages for the Future:
 - C++
