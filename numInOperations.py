@@ -1,4 +1,7 @@
-def numInOperations(a, b):
+def numInOperations():
+
+    a = int(input("Enter a number: "))
+    b = int(input("Enter another: "))
 
     operations = "a"
 
@@ -21,3 +24,6 @@ def numInOperations(a, b):
         return True
     else:
         return False
+
+if __name__ == "__main__":
+    numInOperations()
