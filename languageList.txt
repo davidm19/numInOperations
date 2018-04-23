@@ -2,11 +2,11 @@ Languages I Have Done:
 - C
 - Java
 - Python
+- Swift
 
 Languages I Plan To Do:
 - JavaScript
 - Ruby
-- Swift
 
 Languages for the Future:
 - C++
