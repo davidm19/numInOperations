@@ -1,3 +1,5 @@
+//REMEMBER TO COMPILE FIRST (javac Main.java) AND THEN RUN (java Main.class)
+
 import java.util.Scanner;
 
 public class Main {
