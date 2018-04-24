@@ -13,5 +13,4 @@ Languages for the Future:
 - C#
 - F#
 - Haskell
-- PHP
-- Shell Script
+- Bash Shell Script
