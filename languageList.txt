@@ -5,7 +5,6 @@ Languages I Have Done:
 - Swift
 
 Languages I Plan To Do:
-- Ruby
 - HTML-CSS-JScript site
 
 Languages for the Future:
