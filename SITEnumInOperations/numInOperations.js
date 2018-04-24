@@ -1,5 +1,6 @@
 function numInOperations() {
     var a = document.getElementById("num1");
+    Console.log("print statement");
     var b = document.getElementById("num2");
 
     var i;
