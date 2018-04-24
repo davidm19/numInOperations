@@ -11,6 +11,7 @@ Languages I Plan To Do:
 Languages for the Future:
 - C++
 - C#
+- F#
 - Haskell
 - PHP
 - Shell Script
