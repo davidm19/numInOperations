@@ -9,6 +9,5 @@ Languages I Plan To Do:
 - Bash Shell Script
 
 Languages for the Future:
-- C#
-- F#
-- Haskell
+- Scala
+- Javascript
