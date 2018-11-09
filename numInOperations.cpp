@@ -67,11 +67,10 @@ int main()
         cout << "\n";
         break;
     }
-
-    if(isInRange) {
-      cout << "In range! \n";
-    }
   }
+
+  cout << endl;
+
   return 0;
 }
 
