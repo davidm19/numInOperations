@@ -7,7 +7,6 @@ int power(int base, int expo);
 
 int main()
 {
-  //TODO: IMPLEMENT
   int a;
   int b;
 
@@ -21,10 +20,6 @@ int main()
   cout << "Enter another number: ";
   cin >> b;
 
-  cout << "\nThank you " << endl;
-  cout << "First number: " << a << ", Second Number: " << b << endl;
-
-  //CHECK SYNTAX OF FOR LOOPS
   for(i = 0; i <= 10; ++i) {
     switch (i)
     {
