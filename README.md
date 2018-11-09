@@ -3,12 +3,12 @@ Languages I Have Done:
 - Java
 - Python
 - Swift
+- C++
 
 Languages I Plan To Do:
-- C++
 - Bash Shell Script
 
 Languages for the Future:
 - C#
-- F#
-- Haskell
+- Scala
+- Javascript
