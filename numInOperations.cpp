@@ -24,43 +24,43 @@ int main()
     switch (i)
     {
       case 1:
-        cout << "Sum of " << a << " and " << b << ": " << a + b << endl;
+        cout << "Sum of " << a << " and " << b << ": " << a + b << "\n";
         break;
       
       case 2:
-        cout << "Difference of " << a << " and " << b << ": " << a - b << endl;
+        cout << "Difference of " << a << " and " << b << ": " << a - b << "\n";
         break;
 
       case 3:
-        cout << "Difference of " << b << " and " << a << ": " << b - a << endl;
+        cout << "Difference of " << b << " and " << a << ": " << b - a << "\n";
         break;
     
       case 4:
-        cout << "Product of " << a << " and " << b << ": " << a * b << endl;
+        cout << "Product of " << a << " and " << b << ": " << a * b << "\n";
         break;
 
       case 5:
-        cout << "Quotient of " << a << " and " << b << ": " << a / b << endl;
+        cout << "Quotient of " << a << " and " << b << ": " << a / b << "\n";
         break;
 
       case 6:
-        cout << "Quotient of " << b << " and " << a << ": " << b / a << endl;
+        cout << "Quotient of " << b << " and " << a << ": " << b / a << "\n";
         break;
 
       case 7:
-        cout << "Modulo of " << a << " and " << b << ": " << a % b << endl;
+        cout << "Modulo of " << a << " and " << b << ": " << a % b << "\n";
         break;
 
       case 8:
-        cout << "Modulo of " << b << " and " << a << ": " << b % a << endl;
+        cout << "Modulo of " << b << " and " << a << ": " << b % a << "\n";
         break;
 
       case 9:
-        cout << a << " raised to the power of " << b << ": " << power(a,b) << endl;
+        cout << a << " raised to the power of " << b << ": " << power(a,b) << "\n";
         break;
 
       case 10:
-        cout << b << " raised to the power of " << a << ": " << power(b,a) << endl;
+        cout << b << " raised to the power of " << a << ": " << power(b,a) << "\n";
         break;
 
       default:
