@@ -53,19 +53,19 @@ int main()
         break;
 
       case 7:
-        /* code */
+        cout << "Modulo of " << a << " and " << b << ": " << a % b << endl;
         break;
 
       case 8:
-        /* code */
+        cout << "Modulo of " << b << " and " << a << ": " << b % a << endl;
         break;
 
       case 9:
-        /* code */
+        cout << a << " raised to the power of " << b << ": " << power(a,b) << endl;
         break;
 
       case 10:
-        /* code */
+        cout << b << " raised to the power of " << a << ": " << power(b,a) << endl;
         break;
 
       default:
