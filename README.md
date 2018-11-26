@@ -12,3 +12,4 @@ Languages for the Future:
 - C#
 - Scala
 - Javascript
+- Haskell
