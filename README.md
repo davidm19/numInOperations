@@ -5,11 +5,8 @@ Languages I Have Done:
 - Swift
 - C++
 
-Languages I Plan To Do:
-- Bash Shell Script
-
 Languages for the Future:
-- C#
-- Scala
+- Go
+- Rust
 - Javascript
 - Haskell
